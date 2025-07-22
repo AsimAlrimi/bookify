@@ -52,6 +52,7 @@ Bookify is a Flutter-based book rental application that allows users to browse, 
 
 ## **Folder Structure**
 
+```
 lib/
 ├── main.dart                 # Entry point
 ├── theme/                    # App theme configuration
@@ -59,4 +60,5 @@ lib/
 ├── pages/                    # Screens (AdminPage, SearchPage, BookDetailsPage, etc.)
 ├── services/                 # Providers, Database service, Models
 ├── widgets/                  # Reusable widgets (BookCard, BookFormDialog, etc.)
+```
 
