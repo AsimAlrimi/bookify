@@ -7,6 +7,8 @@ Bookify is a Flutter-based book rental application that allows users to browse, 
 https://github.com/user-attachments/assets/adecbecc-3bff-4581-8e7b-f6eb87698510
 
 
+https://github.com/user-attachments/assets/1b8a3491-1978-47f8-a2c6-2ada58914ecb
+
 
 ## **Features Implemented**
 
